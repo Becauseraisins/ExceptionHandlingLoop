@@ -1,0 +1,16 @@
+C:\Class work\intro_programming\bin\Debug\net5.0\intro_programming.exe
+C:\Class work\intro_programming\bin\Debug\net5.0\intro_programming.deps.json
+C:\Class work\intro_programming\bin\Debug\net5.0\intro_programming.runtimeconfig.json
+C:\Class work\intro_programming\bin\Debug\net5.0\intro_programming.runtimeconfig.dev.json
+C:\Class work\intro_programming\bin\Debug\net5.0\intro_programming.dll
+C:\Class work\intro_programming\bin\Debug\net5.0\ref\intro_programming.dll
+C:\Class work\intro_programming\bin\Debug\net5.0\intro_programming.pdb
+C:\Class work\intro_programming\obj\Debug\net5.0\intro_programming.csprojAssemblyReference.cache
+C:\Class work\intro_programming\obj\Debug\net5.0\intro_programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Class work\intro_programming\obj\Debug\net5.0\intro_programming.AssemblyInfoInputs.cache
+C:\Class work\intro_programming\obj\Debug\net5.0\intro_programming.AssemblyInfo.cs
+C:\Class work\intro_programming\obj\Debug\net5.0\intro_programming.csproj.CoreCompileInputs.cache
+C:\Class work\intro_programming\obj\Debug\net5.0\intro_programming.dll
+C:\Class work\intro_programming\obj\Debug\net5.0\ref\intro_programming.dll
+C:\Class work\intro_programming\obj\Debug\net5.0\intro_programming.pdb
+C:\Class work\intro_programming\obj\Debug\net5.0\intro_programming.genruntimeconfig.cache

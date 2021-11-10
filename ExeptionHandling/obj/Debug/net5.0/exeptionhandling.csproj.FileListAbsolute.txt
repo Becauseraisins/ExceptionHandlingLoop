@@ -1,0 +1,16 @@
+C:\Users\matth\Class_work\Intro_programming\ExeptionHandling\bin\Debug\net5.0\exeptionhandling.exe
+C:\Users\matth\Class_work\Intro_programming\ExeptionHandling\bin\Debug\net5.0\exeptionhandling.deps.json
+C:\Users\matth\Class_work\Intro_programming\ExeptionHandling\bin\Debug\net5.0\exeptionhandling.runtimeconfig.json
+C:\Users\matth\Class_work\Intro_programming\ExeptionHandling\bin\Debug\net5.0\exeptionhandling.runtimeconfig.dev.json
+C:\Users\matth\Class_work\Intro_programming\ExeptionHandling\bin\Debug\net5.0\exeptionhandling.dll
+C:\Users\matth\Class_work\Intro_programming\ExeptionHandling\bin\Debug\net5.0\ref\exeptionhandling.dll
+C:\Users\matth\Class_work\Intro_programming\ExeptionHandling\bin\Debug\net5.0\exeptionhandling.pdb
+C:\Users\matth\Class_work\Intro_programming\ExeptionHandling\obj\Debug\net5.0\exeptionhandling.csproj.AssemblyReference.cache
+C:\Users\matth\Class_work\Intro_programming\ExeptionHandling\obj\Debug\net5.0\exeptionhandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\Class_work\Intro_programming\ExeptionHandling\obj\Debug\net5.0\exeptionhandling.AssemblyInfoInputs.cache
+C:\Users\matth\Class_work\Intro_programming\ExeptionHandling\obj\Debug\net5.0\exeptionhandling.AssemblyInfo.cs
+C:\Users\matth\Class_work\Intro_programming\ExeptionHandling\obj\Debug\net5.0\exeptionhandling.csproj.CoreCompileInputs.cache
+C:\Users\matth\Class_work\Intro_programming\ExeptionHandling\obj\Debug\net5.0\exeptionhandling.dll
+C:\Users\matth\Class_work\Intro_programming\ExeptionHandling\obj\Debug\net5.0\ref\exeptionhandling.dll
+C:\Users\matth\Class_work\Intro_programming\ExeptionHandling\obj\Debug\net5.0\exeptionhandling.pdb
+C:\Users\matth\Class_work\Intro_programming\ExeptionHandling\obj\Debug\net5.0\exeptionhandling.genruntimeconfig.cache
